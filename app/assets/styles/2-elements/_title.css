@@ -1,0 +1,10 @@
+.title {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	padding-bottom: 0;
+
+	&__red {
+			color: rgb(228, 106, 93);
+		}
+}
